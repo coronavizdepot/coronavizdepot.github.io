@@ -7736,6 +7736,26 @@ a.bg-dark:hover {
     text-align: center;
 }
 
+@media (max-width: 576) {
+    .text-footer-right {
+        text-align: center;
+    }
+}
+
+@media (min-width: 576) {
+    .text-footer-right {
+        text-align: right;
+    }
+}
+
+
+
+
+
+
+
+
+
 @media (min-width: 576px) {
     .text-sm-left {
         text-align: left;
