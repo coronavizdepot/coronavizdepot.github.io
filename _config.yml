@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Basil Labs
+=======
+title: Coronavizdepot.Github.Io
+>>>>>>> aa08af201517a54b17b549c2245fc3b935e17191
 timezone: UTC
 collections:
   posts:
@@ -8,6 +12,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+<<<<<<< HEAD
 name: Basil Labs
 email: connect@basillabs.org
 address: 745 ATLANTIC AVENUE, BOSTON MA
@@ -44,3 +49,5 @@ footer_title: About Us
 footer_description: Basil Labs helps organizations tap into digital and in store consumer intelligence to craft stronger brands and target their audiences with pinpoint accuracy.
 copyright_text: Copyright © 2019 All rights reserved to
 company_url: "#"
+=======
+>>>>>>> aa08af201517a54b17b549c2245fc3b935e17191
