@@ -7930,7 +7930,13 @@ a.text-dark:hover {
     visibility: hidden !important;
 }
 
-/* ** 02 :: Font Awesome* ----------------------------------------------------------------------- *** Homepage: http://fontawesome.io* Author: @davegandy* License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License) */
+/* *
+* 02 :: Font Awesome
+* ----------------------------------------------------------------------- *
+*
+* Homepage: http://fontawesome.io
+* Author: @davegandy
+* License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License) */
 @font-face {
     font-family: 'FontAwesome';
     src: url("../icons/fontawesome-webfont.eot?v=4.7.0");
@@ -10759,7 +10765,14 @@ a.text-dark:hover {
     content: "";
 }
 
-/* ** 04. Owl Carousel* ----------------------------------------------------------------------- *** Homepage: http://owlcarousel2.github.io/* Author: David Deutsch* Author URL: https://github.com/daviddeutsch* License - MIT License */
+/* *
+* 04. Owl Carousel
+* ----------------------------------------------------------------------- *
+*
+* Homepage: http://owlcarousel2.github.io/
+* Author: David Deutsch
+* Author URL: https://github.com/daviddeutsch
+* License - MIT License */
 .owl-carousel {
     display: none;
     width: 100%;
@@ -11004,7 +11017,14 @@ a.text-dark:hover {
     background: #8089ff;
 }
 
-/* ** 03. Simple Line Icons* ----------------------------------------------------------------------- *** Homepage: http://simplelineicons.com* Author: Sabbir Ahmed* Author URL: https://github.com/thesabbir* License - MIT License */
+/* *
+* 03. Simple Line Icons
+* ----------------------------------------------------------------------- *
+*
+* Homepage: http://simplelineicons.com
+* Author: Sabbir Ahmed
+* Author URL: https://github.com/thesabbir
+* License - MIT License */
 @font-face {
     font-family: "simple-line-icons";
     src: url("../icons/Simple-Line-Icons.eot?v=2.4.0");
@@ -11970,7 +11990,13 @@ a.text-dark:hover {
     content: "\e620";
 }
 
-/* ** 05. SliderPro* ----------------------------------------------------------------------- *** Homepage: http://bqworks.com/slider-pro/* Author: bqworks* Author URL: http://bqworks.com/ */
+/* *
+* 05. SliderPro
+* ----------------------------------------------------------------------- *
+*
+* Homepage: http://bqworks.com/slider-pro/
+* Author: bqworks
+* Author URL: http://bqworks.com/ */
 .slider-pro {
     position: relative;
     margin: 0 auto;
@@ -15426,6 +15452,7 @@ img.img-responsive {
     margin-top: -12rem;
     padding-left: 2rem;
     padding-right: 2rem;
+    object-fit: contain;
 }
 
 @media (min-width: 768px) {
